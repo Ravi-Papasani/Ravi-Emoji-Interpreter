@@ -61,7 +61,7 @@ export default function App() {
         placeholder="search with your emoji symbol here"
       ></input>
       <h2>
-        <span className="emj-output">Emoji Meaning is : </span>
+        <span className="emj-output">Emoji Meaning : </span>
         {meaning}
       </h2>
       <h3>Click on the below Emojies, to know its meaning</h3>
