@@ -3,30 +3,30 @@ import "./styles.css";
 import { useState } from "react";
 
 const emojiDictionary = {
-  "📱": "Telegram",
+  "😄": "Fun",
   "😂": "Face With Tears of Joy",
   "😘": "Face Blowing a Kiss",
+  "🥳": "Partying Face",
+  "👱": "Men's",
+  "👩": "Women's",
+  "🌝": "Full Moon Face",
+  "🧟": "Walking Dead",
   "✨": "Sparkles",
   "🔥": "Fire",
   "🦋": "Butterfly",
-  "🥳": "Partying Face",
   "🍭": "Lollipop",
+  "📱": "Telegram",
   "💕": "Two Hearts",
-  "🌝": "Full Moon Face",
   "🎂": "Birthday",
-  "🍁": "Autumn",
   "🛍": "Black Friday",
   "🥚": "Easter",
-  "🥇": "Olympics",
+  "🍁": "Autumn",
   "🌸": "Spring",
   "🌻": "Summer",
-  "😄": "Fun",
-  "👱": "Men's",
-  "👩": "Women's",
-  "🧟": "Walking Dead",
-  "🚗": "Top Gear",
   "🎓": "Graduation",
-  "🏈": "Super Bowl"
+  "🚗": "Top Gear",
+  "🏈": "Super Bowl",
+  "🥇": "Olympics"
 };
 
 //console.log(Object.keys(emojiDictionary));
